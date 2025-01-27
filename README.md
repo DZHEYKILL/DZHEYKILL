@@ -1,6 +1,4 @@
-<p align="center">
-## 24 y.o. / C++ dev. / UE art. 
-</p>
+<align="center" ## 24 y.o. / C++ dev. / UE art.> 
 
 ![UnrealEngine](https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ)
 
