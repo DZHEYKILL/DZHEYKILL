@@ -2,10 +2,11 @@
 
 ![UnrealEngine](https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ)
 
-![Glow Sci Fi GIF by Yizr](https://github.com/user-attachments/assets/1701a642-99ba-4031-b30d-de1e239821c3)
-![download](https://github.com/user-attachments/assets/c69d25e9-c65a-440c-9970-63516c6d4e62)
-
-![loop outrun GIF by kotutohum](https://github.com/user-attachments/assets/66e2b805-ffd0-4863-bb58-e77f688c644c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1701a642-99ba-4031-b30d-de1e239821c3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/c69d25e9-c65a-440c-9970-63516c6d4e62" width="30%" />
+  <img src="https://github.com/user-attachments/assets/66e2b805-ffd0-4863-bb58-e77f688c644c" width="30%" />
+</p>
 
 <!--
 **DZHEYKILL/DZHEYKILL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
