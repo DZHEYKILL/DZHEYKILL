@@ -1,6 +1,6 @@
 <h1 align="center">24 y.o. / C++ dev. / UE art.</h1>
 
-![UnrealEngine](https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ)
+<img src="https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ" width=90% />
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1701a642-99ba-4031-b30d-de1e239821c3" width="30%" />
