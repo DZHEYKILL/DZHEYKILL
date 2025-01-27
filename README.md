@@ -2,7 +2,7 @@
 
 ![UnrealEngine](https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ)
 
-<h2 align="center">![Happy My Song GIF by Justin](https://github.com/user-attachments/assets/79f7fcee-1391-4886-92eb-a1c738d939f9)</h2>
+
 
 <!--
 **DZHEYKILL/DZHEYKILL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
