@@ -3,13 +3,10 @@
 <!--
 **DZHEYKILL/DZHEYKILL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![UnrealEngine](https://media.graphassets.com/qiFQiyH6TiuMdOIA5yZJ)
+#Horizontal-Swiper
+For Starting Screen
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+# npm install
 
 Here are some ideas to get you started:
 
